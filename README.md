@@ -24,3 +24,6 @@
 
 •••
 После окончания куса продолжаю заниматься саморазвитием и изучением SQL. (Читаю книгу Бена Форта (5-е издание), выполняю задания прописываю запросы)
+Ниже размещаю проект Диплома Yndex practicum - QA Engineer
+[Геворк Аракелян — диплом.xlsx](https://github.com/ArakelGev/QA-Engineer-Arakelyan/files/11070205/default.xlsx)
+<img width="5445" alt="Форма заказа Яндекс самокат" src="https://user-images.githubusercontent.com/128685961/227742855-edd3a5de-5d25-40ad-968f-5aea21de125a.png">
